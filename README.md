@@ -15,7 +15,7 @@ https://reactjs-ecommerce-app.vercel.app/
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/fQ293tm/ss.jpg)
+<img align="center" src="ss.jpg" alt="background" height="50%" width="1400">
 
 
 
