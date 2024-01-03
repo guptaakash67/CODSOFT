@@ -14,7 +14,7 @@ const Home = () => {
           />
           <div className="card-img-overlay d-flex align-items-center">
             <div className="container">
-              <h5 className="card-title fs-1 text fw-lighter"> NEW SEASON ARIVALS </h5>
+              <h5 className="card-title fs-1 text fw-lighter"> NEW SEASON ARRIVALS </h5>
               <p className="card-text fs-5 d-none d-sm-block ">
                 
               </p>
